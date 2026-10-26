@@ -8,5 +8,5 @@ Kaiduo is a movie discovery platform that provides link access to watch and down
 * Direct links for watching and downloading
 
 ## 🛠️ Tech Stack
-* HTML / CSS / JavaScript (Edit this to match what you used)# Kaiduo
+* HTML / CSS / JavaScript (Appmint Bundling)# Kaiduo
 A movie app for link access to watch and download movies or TV shows
